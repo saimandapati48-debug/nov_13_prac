@@ -1,0 +1,3 @@
+ext4,xfs
+ext4-fsck to run filesystem check
+xfs- xfs_repair to run filesystem check
