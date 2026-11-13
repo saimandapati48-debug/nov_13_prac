@@ -1,2 +1,3 @@
 ECS-Elastic Container registry 
-Ecs is used to run tasks in a cluset which provides load balancing
+Ecs is used to run tasks in a cluster which provides load balancing
+it is a cluste environment that manage load across all nodes.
